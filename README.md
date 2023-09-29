@@ -1,7 +1,7 @@
 ## 👋 Hello!
-I'm 24 years old who has recently graduated with a master's degree in Applied Mathematics.
+I'm 24 years old who has recently graduated with a master's degree in Applied Mathematics. <br>
 
-My interests include learning new things and increasing my knowledge, as well as reading books and playing video games.
+My interests include learning new things and increasing my knowledge, as well as reading books and playing video games. <br>
 
 Repositories contain projects that I've been working on in the past, and I encourage you to familiarize yourself with their contents. 
 
